@@ -1,0 +1,44 @@
+
+Tree created with 1 nodes and max of 666 nodes
+t : 3
+Reads: 996 
+Writes: 1484
+
+
+
+Tree created with 1 nodes and max of 400 nodes
+t : 5
+Reads: 992 
+Writes: 1745
+
+
+
+Tree created with 1 nodes and max of 200 nodes
+t : 10
+Reads: 982 
+Writes: 1328
+
+
+
+Tree created with 1 nodes and max of 100 nodes
+t : 20
+Reads: 962 
+Writes: 1154
+
+
+
+Tree created with 1 nodes and max of 40 nodes
+t : 50
+Reads: 902 
+Writes: 1058
+
+
+
+Tree created with 1 nodes and max of 22 nodes
+t : 90
+Reads: 822 
+Writes: 1031
+
+
+
+
